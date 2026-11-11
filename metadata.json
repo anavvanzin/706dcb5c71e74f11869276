@@ -1,0 +1,8 @@
+{
+  "name": "Discussing Dauchy’s Montesquieu | Ana Vitória Vanzin Mendes · PPGD/UFSC",
+  "description": "Interactive 7-slide discussant presentation, embedded Serge Dauchy conference manuscript (¶1–14), Matching Lectern Script PDF, and Deep Research Dossier on Montesquieu in Brazil (PPGD/UFSC, 11 November 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
